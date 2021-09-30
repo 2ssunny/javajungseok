@@ -14,5 +14,6 @@ public class Ex2_7 {
         System.out.println(""+"");
         System.out.println(7+7+"");
         System.out.println(""+7+7);
+        System.out.println(7+""+7);
     }
 }
