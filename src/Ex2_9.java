@@ -1,3 +1,5 @@
+import javax.swing.plaf.synth.SynthViewportUI;
+
 public class Ex2_9 {
 
     public static void main(String[] args) {
@@ -16,6 +18,7 @@ public class Ex2_9 {
         System.out.printf("[%20s]%n", url);
         System.out.printf("[%-20s]%n", url);
         System.out.printf("[%.8s]%n", url);
+        System.out.println("Hi");
 
 
     }
