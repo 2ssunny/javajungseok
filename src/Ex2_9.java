@@ -1,4 +1,3 @@
-
 public class Ex2_9 {
 
     public static void main(String[] args) {
@@ -12,7 +11,11 @@ public class Ex2_9 {
         System.out.printf("f3=%f, %e, %g%n", f3, f3, f3);
         System.out.printf("d=%f%n", d);
         System.out.printf("d=%14.10f%n", d); //전체 14자리중 소수점 10자리
-        System.out.printf("[12345678901234567890]%n")
+        System.out.printf("[12345678901234567890]%n");
+        System.out.printf("[%s]%n", url);
+        System.out.printf("[%20s]%n", url);
+        System.out.printf("[%-20s]%n", url);
+        System.out.printf("[%.8s]%n", url);
 
 
     }
