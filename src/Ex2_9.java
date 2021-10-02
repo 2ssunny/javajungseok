@@ -17,6 +17,7 @@ public class Ex2_9 {
         System.out.printf("[%-20s]%n", url);
         System.out.printf("[%.8s]%n", url);
 
+        
 
     }
 }
