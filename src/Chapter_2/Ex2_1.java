@@ -1,3 +1,4 @@
+package Chapter_2;
 public class Ex2_1{
     public static void main(String afgs[]) {
         System.out.println("Hello, world"); //화면에 Hello, world 출력
