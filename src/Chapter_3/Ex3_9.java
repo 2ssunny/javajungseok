@@ -1,11 +1,11 @@
 package Chapter_3;
 
-public class Ex3_8 {
-
+public class Ex3_9 {
     public static void main(String[] args) {
-        byte a=10;
-        byte b=30;
-        byte c=(byte)(a*b);
+        int a=1000000;
+        int b=2000000;
+        
+        long c=a*b;
 
         System.out.println(c);
     }
