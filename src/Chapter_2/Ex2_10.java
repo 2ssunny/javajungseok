@@ -1,5 +1,7 @@
 package Chapter_2;
+
 import java.util.Scanner; //Scanner를 사용하기 위해 추가
+
 public class Ex2_10 {
 public static void main(String[] args) {
     Scanner scanner=new Scanner(System.in);
